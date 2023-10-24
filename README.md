@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nihith-nath
-- 👀 I’m interested in web devlopment and data science
-- 🌱 I’m currently learning fullstack web development 
-- 💞️ I’m looking to collaborate on any web dev projects.
+- 👀 I’m interested in analytics and data science
+- 🌱 I’m currently learning Datascience 
+- 💞️ I’m looking to collaborate on any Data science or data related projects
 - 📫 How to reach me ...
 
 <!---
