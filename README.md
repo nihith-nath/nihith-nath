@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on any Data science or data related projects
 - 📫 How to reach me ...
 
-<!---
-nihith-nath/nihith-nath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hey! welcome to my github, I am [Nihith Nath]
+
+[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/nihith-nath-k-1b910a185/)
+[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:nihithnath@gmail.com)
+
+<!-- This is taken from https://github.com/maddhruv/npm-statistics -->
+
+![NPM Stats](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmaddhruv%2Fnpm-statistics%2Fmaster%2Fstats.json)
