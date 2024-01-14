@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on any Data science or data related projects
 - 📫 How to reach me ...
 
-## Hey! welcome to my github, I am [Nihith Nath]
+## Hey! welcome to my github, I am Nihith Nath
 
-[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/midhruvjaink/)](https://www.linkedin.com/in/nihith-nath-k-1b910a185/)
-[![Gmail Badge](https://img.shields.io/badge/-dhruvjainpenny@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhruvjainpenny@gmail.com)](mailto:nihithnath@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-midhruvjaink-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/midhruvjaink/](https://www.linkedin.com/in/nihith-nath-k-1b910a185/))](https://www.linkedin.com/in/nihith-nath-k-1b910a185/)
+[![Gmail Badge](https://img.shields.io/badge/-nihithnath@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihithnath@gmail.com)](mailto:nihithnath@gmail.com)
 
 <!-- This is taken from https://github.com/maddhruv/npm-statistics -->
 
