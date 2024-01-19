@@ -7,6 +7,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Nihith_Nath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/midhruvjaink/](https://www.linkedin.com/in/nihithnath))](https://www.linkedin.com/in/nihithnath)
 [![Gmail Badge](https://img.shields.io/badge/-nihithnath@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihithnath@gmail.com)](mailto:nihithnath@gmail.com)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nihith-nath.nihith-nath)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nihith-nath.visitor-badge)
 
 
