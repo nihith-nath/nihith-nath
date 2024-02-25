@@ -8,6 +8,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-nihithnath@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nihithnath@gmail.com)](mailto:nihithnath@gmail.com)
 
 
+
+<h3 align="left">Streaks</h3>                                                                         
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nihith-nath&" alt="nihith-nath" /></p>
+
+<h3 align="left">📊 Stats</h3>
+
+![Nihith's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihithnath&show_icons=true&theme=radical)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nihith-nath.visitor-badge)
 
 
